@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+input[type="text"] {
+    width: 700px;
+    margin: 0 auto;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 5px;
+
+}
+#button {
+    font-size: 20px;
+    height:40px;
+    width: 90px;
+    text-align: center;
+   background: blue;
+    border-radius: 20px;
+
+}
+
+#inquiry
+{
+    font-size: 20px;
+    height:40px;
+    width: 600px;
+}
